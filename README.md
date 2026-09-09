@@ -42,7 +42,7 @@ This project automates the booking process using an AI voice agent while keeping
 
 ## 📄 Workflow Export
 
-Full workflow JSON available in this repo — see `workflow.json`.
+Full workflow JSON available in this repo — see [workflow.json](https://github.com/manitejamaloth/vapi-ai-voice-booking-agent/blob/0993353cab748b76800b664c9e53a324a9f96e23/Vapi%20End%20of%20Call%20Report.json).
 
 ## 🔄 Workflow Architecture
 
