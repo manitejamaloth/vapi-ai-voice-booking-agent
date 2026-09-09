@@ -35,8 +35,7 @@ This project automates the booking process using an AI voice agent while keeping
 - **OpenAI API** — Call summarization and AI processing
 
 ## 📸 Workflow Screenshot
-
-*(Add screenshot of your n8n canvas here)*
+![n8n Workflow ](https://github.com/manitejamaloth/vapi-ai-voice-booking-agent/blob/8005d847277c768283cefac7ee97798d37d9ec8d/01-n8n-workflow.png)
 
 ## 📄 Workflow Export
 
