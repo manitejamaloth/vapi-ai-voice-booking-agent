@@ -37,6 +37,9 @@ This project automates the booking process using an AI voice agent while keeping
 ## 📸 Workflow Screenshot
 ![n8n Workflow ](https://github.com/manitejamaloth/vapi-ai-voice-booking-agent/blob/8005d847277c768283cefac7ee97798d37d9ec8d/01-n8n-workflow.png)
 
+## 📸 Voice Assistant Configuration Screenshot
+![Vapi Assistant Configuration](https://github.com/manitejamaloth/vapi-ai-voice-booking-agent/blob/0993353cab748b76800b664c9e53a324a9f96e23/02-vapi-assistant.png)
+
 ## 📄 Workflow Export
 
 Full workflow JSON available in this repo — see `workflow.json`.
