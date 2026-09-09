@@ -1,4 +1,4 @@
-# AI Voice Booking Agent — Vapi + n8n
+# AI Voice Booking Agent – Vapi + n8n
 
 An AI-powered voice booking assistant that handles customer calls, checks appointment availability, books detailing services through Google Calendar, and automatically records and summarizes completed calls.
 
@@ -27,12 +27,12 @@ This project automates the booking process using an AI voice agent while keeping
 
 ## 🛠️ Tools Used
 
-- **Vapi** — AI voice agent and call handling
-- **n8n** — Workflow orchestration and automation
-- **Google Calendar** — Appointment availability and booking
-- **Google Sheets** — Booking and call record storage
-- **Gmail** — Customer confirmation
-- **OpenAI API** — Call summarization and AI processing
+- **Vapi** – AI voice agent and call handling
+- **n8n** – Workflow orchestration and automation
+- **Google Calendar** – Appointment availability and booking
+- **Google Sheets** – Booking and call record storage
+- **Gmail** – Customer confirmation
+- **OpenAI API** – Call summarization and AI processing
 
 ## 📸 Workflow Screenshot
 ![n8n Workflow ](https://github.com/manitejamaloth/vapi-ai-voice-booking-agent/blob/8005d847277c768283cefac7ee97798d37d9ec8d/01-n8n-workflow.png)
@@ -42,7 +42,7 @@ This project automates the booking process using an AI voice agent while keeping
 
 ## 📄 Workflow Export
 
-Full n8n workflow JSON available in this repo - see [workflow.json](https://github.com/manitejamaloth/vapi-ai-voice-booking-agent/blob/0993353cab748b76800b664c9e53a324a9f96e23/Vapi%20End%20of%20Call%20Report.json).
+Full n8n workflow JSON available in this repo – see [workflow.json](https://github.com/manitejamaloth/vapi-ai-voice-booking-agent/blob/0993353cab748b76800b664c9e53a324a9f96e23/Vapi%20End%20of%20Call%20Report.json).
 
 ## 🔄 Workflow Architecture
 
