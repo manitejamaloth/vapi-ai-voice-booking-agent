@@ -34,6 +34,14 @@ This project automates the booking process using an AI voice agent while keeping
 - **Gmail** — Customer confirmation
 - **OpenAI API** — Call summarization and AI processing
 
+## 📸 Workflow Screenshot
+
+*(Add screenshot of your n8n canvas here)*
+
+## 📄 Workflow Export
+
+Full workflow JSON available in this repo — see `workflow.json`.
+
 ## 🔄 Workflow Architecture
 
 ```text
